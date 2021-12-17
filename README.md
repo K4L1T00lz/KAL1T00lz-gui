@@ -11,3 +11,6 @@ wget https://raw.githubusercontent.com/K4L1T00lz/KAL1T00lz-gui/main/install.sh
 sudo bash install.sh
 
 !!! You don't need to clone the repository to use the script !!!
+
+
+Note: This is only a demo and more features and tools will be added soon

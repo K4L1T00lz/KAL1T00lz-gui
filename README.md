@@ -9,3 +9,5 @@ wget https://raw.githubusercontent.com/K4L1T00lz/KAL1T00lz-gui/main/install.sh
 [2] Run the script :
 
 sudo bash install.sh
+
+!!! You don't need to clone the repository to use the script !!!
